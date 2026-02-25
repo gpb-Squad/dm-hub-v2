@@ -2,7 +2,7 @@
   "name": "dm-hub-v2",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://YOUR_GITHUB_USER.github.io/dm-hub-v2",
+  "homepage": "https://gpb-Squad.github.io/dm-hub-v2",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
