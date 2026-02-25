@@ -1,0 +1,96 @@
+{
+  "siteTitle": "DM  Squad Dashboard",
+  "siteSubtitle": "Portal de recursos del equipo",
+  "googleSheetId": "1Zhds4krU00eJxeBAcMivCXFx_5UvPRkBRxQkI09Sdp0",
+  "googleSheetTab": "Sheet1",
+  "theme": {
+    "primaryColor": "#1a365d",
+    "secondaryColor": "#2d3748",
+    "accentColor": "#3182ce",
+    "backgroundColor": "#f7fafc"
+  },
+  "sections": [
+    {
+      "id": "accounts",
+      "title": "Accounts & SOWs",
+      "icon": "📊",
+      "items": [
+        {
+          "title": "Accounts SOWs",
+          "link": "https://example.com/accounts",
+          "icon": "📁",
+          "type": "link"
+        },
+        {
+          "title": "Proposals Info",
+          "link": "https://example.com/proposals",
+          "icon": "📝",
+          "type": "link"
+        },
+        {
+          "title": "Squad",
+          "link": "https://example.com/squad",
+          "icon": "👥",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "title": "Herramientas",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "DM Calculator",
+          "link": "https://example.com/calculator",
+          "icon": "🧮",
+          "type": "link"
+        },
+        {
+          "title": "DropboxSign",
+          "link": "https://example.com/dropboxsign",
+          "icon": "✍️",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "id": "onboarding",
+      "title": "Onboarding",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "New Home",
+          "link": "https://example.com/newhome",
+          "icon": "🏠",
+          "type": "link"
+        },
+        {
+          "title": "NH with Resumes",
+          "link": "https://example.com/nh-resumes",
+          "icon": "📄",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "id": "videos",
+      "title": "Videos & Tutoriales",
+      "icon": "🎥",
+      "items": [
+        {
+          "title": "Introducción al equipo",
+          "link": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "icon": "▶️",
+          "type": "video"
+        },
+        {
+          "title": "Tutorial de herramientas",
+          "link": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "icon": "▶️",
+          "type": "video"
+        }
+      ]
+    }
+  ]
+}
