@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dm-hub-v2/static/css/main.04a5fe7b.css",
+    "main.js": "/dm-hub-v2/static/js/main.4fec2789.js",
+    "index.html": "/dm-hub-v2/index.html",
+    "main.04a5fe7b.css.map": "/dm-hub-v2/static/css/main.04a5fe7b.css.map",
+    "main.4fec2789.js.map": "/dm-hub-v2/static/js/main.4fec2789.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04a5fe7b.css",
+    "static/js/main.4fec2789.js"
+  ]
+}
